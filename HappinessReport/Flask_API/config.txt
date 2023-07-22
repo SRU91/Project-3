@@ -1,4 +1,0 @@
-host = "postgres"
-name = "Happiness"
-user = "localhost"
-password = "postgres"
